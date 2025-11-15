@@ -52,13 +52,14 @@ The SQL report includes:
 * **Table** – Customer Order & Revenue Summary
 
 ---
+<img width="1171" height="653" alt="image" src="https://github.com/user-attachments/assets/0aba2b79-703e-46c8-81cf-6c8272921ea2" />
+
 
 ## 🛠 **Tools Used**
 
 * **Power BI Desktop**
 * **MySQL / CSV Data**
 * **DAX (Data Analysis Expressions)**
-* **GitHub**
 
 ---
 
